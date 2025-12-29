@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="320px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
-</div>
 <h1 align="center">Ecommerce Performance Report</h1>
 <table align="center">
   <tr>
