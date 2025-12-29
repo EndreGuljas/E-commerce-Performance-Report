@@ -297,7 +297,7 @@
   </tr>
 </table>
 <table align="center">
-    <h1>Recommendations</h1>
+    <h1 align="center">Recommendations</h1>
     <h4>Based on the uncovered insights, here are actionable items that the company can take away from the analysis.</h4>
       <ul>
         <h3>Sales</h3>
