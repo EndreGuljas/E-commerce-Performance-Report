@@ -354,3 +354,18 @@
     </td>
   </tr>
 </table>
+<table align="center">
+  <tr>
+    <td>
+      <h1 align="center">Conclusions and Strategic Recommendations</h1>
+      <p>This comprehensive analysis of the company's performance from 2019 to 2022 reveals a business that successfully capitalized on the e-commerce surge of the COVID-19 pandemic but is now facing a critical post-pandemic correction. The significant revenue decline in late 2022 was driven primarily by a <strong>38% drop in order frequency</strong> rather than a collapse in order value. This indicates that the primary challenge is <strong>customer retention and demand generation</strong> in an increasingly competitive market.</p>
+      <p>To navigate this transition and return to a growth trajectory in the future, the company must focus on three strategic pillars:</p>
+      <ul>
+        <li><strong>Deepening Customer Loyalty:</strong> The loyalty program is a proven success, with members contributing <strong>higher AOV</strong> and showing <strong>greater resilience to market fluctuations</strong>. Expanding this program is the most viable path to stabilizing revenue.</li>
+        <li><strong>Operational Excellence in High-Value Categories:</strong> While Laptops drive significant revenue, their high refund rates (<strong>14%</strong>) represent a major leak in profitability. Addressing quality control or setting better customer expectations for these items is essential.</li>
+        <li><strong>Geographic Optimization:</strong> North America remains the bedrock of the business (<strong>52% of sales</strong>). While Latin America offers growth potential, immediate efforts should focus on maximizing market share in the high-performing North American region during seasonal lows (Q1).</li>
+      </ul>
+      <p>By transitioning from a strategy of "riding the pandemic wave" to a data-driven model, the company can mitigate the 2022 downturn and build a more sustainable, resilient e-commerce framework for the years ahead.</p>
+    </td>
+  </tr>
+</table>
