@@ -1,4 +1,4 @@
-<h1 align="center">Ecommerce Performance Report</h1>
+<h1 align="center">E-commerce Performance Report</h1>
 <table align="center">
   <tr>
     <td width="1440">
