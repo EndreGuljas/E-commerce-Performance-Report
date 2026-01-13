@@ -349,7 +349,7 @@ Key findings on order frequency:
 
 ---
 
-## 5. Recommendations
+## 5. Strategic Recommendations
 
 Based on the uncovered insights, here are actionable items that the company can take away from the analysis.
 
@@ -411,7 +411,7 @@ Based on the uncovered insights, here are actionable items that the company can 
 
 ---
 
-## 6. Conclusions and Strategic Recommendations
+## 6. Conclusions
 
 This comprehensive analysis of the company's performance from 2019 to 2022 reveals a business that successfully capitalized on the e-commerce surge of the COVID-19 pandemic but is now facing a critical post-pandemic correction. The significant revenue decline in late 2022 was driven primarily by a **38% drop in order frequency** rather than a collapse in order value. This indicates that the primary challenge is **customer retention and demand generation** in an increasingly competitive market.
 
