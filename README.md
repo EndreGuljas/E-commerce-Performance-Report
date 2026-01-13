@@ -1,15 +1,10 @@
-# 🛒 E-commerce Performance Analysis Report
-
-![SQL](https://img.shields.io/badge/SQL-Analysis-CC2927?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat&logo=tableau&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=flat)
+# <h1 align="center"> E-commerce Performance Analysis Report</h1>
 
 > A comprehensive business performance analysis of a global e-commerce retailer, uncovering critical insights across sales trends, product performance, customer loyalty, and regional distribution to drive strategic decision-making.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Executive Summary](#-executive-summary)
 - [Client Background](#-client-background)
@@ -25,7 +20,7 @@
 
 ---
 
-## 📊 Executive Summary
+## 1. Executive Summary
 
 ### Project Overview
 
@@ -54,7 +49,7 @@ This project is a **Business Case Simulation** focused on the performance analys
 
 #### 2. Declining Trend in 2022
 
-> ⚠️ **Critical Alert**: A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.
+> **Critical Alert**: A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.
 
 - The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts
 
@@ -71,7 +66,7 @@ This project is a **Business Case Simulation** focused on the performance analys
 
 ---
 
-## 🏢 Client Background
+## 2. Client Background
 
 **This project is a Business Case Simulation focused on the performance analysis of a global e-commerce company. While the business scenario is fictional, the analysis is conducted using a real world dataset.** 
 
@@ -100,7 +95,7 @@ The key insights and recommendations focus on the following areas:
 
 ---
 
-## 🗄️ Dataset Structure & ERD
+## 3. Dataset Structure & ERD
 
 The database structure consists of four tables with a total row count of **108,127 records**:
 
@@ -119,9 +114,9 @@ The database structure consists of four tables with a total row count of **108,1
 
 ---
 
-## 🔍 Insights Deep-Dive
+## 4. Insights Deep-Dive
 
-## 📈 Sales Trends
+## Sales Trends
 
 <table align="center">
   <tr>
@@ -140,7 +135,7 @@ The database structure consists of four tables with a total row count of **108,1
 ### Sales Revenue Analysis
 
 <details>
-<summary><b>📉 1. Sharp Decline in Q4 2022 – A Major Sales Anomaly</b></summary>
+<summary><b> 1. Sharp Decline in Q4 2022 – A Major Sales Anomaly</b></summary>
 
 - Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, **Q4 sales plummeted**
 - December 2022 Sales Revenue was **$262K** (Previous years: $458K–$1.25M). This represents a **~70-80% drop** from Q4 2021 and an even sharper decline compared to Q4 2020
@@ -148,7 +143,7 @@ The database structure consists of four tables with a total row count of **108,1
 </details>
 
 <details>
-<summary><b>📊 2. Post-Pandemic Sales Normalization (2020-2022 Trends)</b></summary>
+<summary><b> 2. Post-Pandemic Sales Normalization (2020-2022 Trends)</b></summary>
 
 - **2020 Sales Surge**: The pandemic led to a significant boost in e-commerce sales, with Q2-Q4 2020 seeing a rapid increase (e.g., **Q4 2020 was nearly double Q4 2019**)
 - **2021 Slight Slowdown**: Sales remained high but started stabilizing, showing a decline from peak pandemic levels
@@ -157,7 +152,7 @@ The database structure consists of four tables with a total row count of **108,1
 </details>
 
 <details>
-<summary><b>⚠️ 3. Declining Growth Throughout 2022 – Indicating Weak Consumer Demand</b></summary>
+<summary><b> 3. Declining Growth Throughout 2022 – Indicating Weak Consumer Demand</b></summary>
 
 Each quarter in 2022 experienced a downward trend:
 - **Q1**: Started fairly strong ($704K in Jan) but lower than 2021
@@ -169,7 +164,7 @@ Each quarter in 2022 experienced a downward trend:
 ### Average Order Value (AOV)
 
 <details>
-<summary><b>💰 1. Sharp AOV Surge in 2020, followed by a Decline in 2021-2022</b></summary>
+<summary><b> 1. Sharp AOV Surge in 2020, followed by a Decline in 2021-2022</b></summary>
 
 - **2020 saw the highest AOV growth, peaking at $322 (Oct 2020)** compared to $246 (Nov 2019), aligning with pandemic-driven eCommerce boom
 - Post-pandemic correction (2021-2022) led to a steady decline, with AOV in 2022 returning close to 2019 levels (~$234-$237)
@@ -177,7 +172,7 @@ Each quarter in 2022 experienced a downward trend:
 </details>
 
 <details>
-<summary><b>📊 2. 2022 AOV is Lower and More Volatile</b></summary>
+<summary><b> 2. 2022 AOV is Lower and More Volatile</b></summary>
 
 - **2022 AOV fluctuates significantly** between $216 (Oct) and $256 (Sep)
 - Q4 2022 AOV is significantly lower than Q4 2020 & 2021, meaning holiday spending per order has dropped
@@ -185,7 +180,7 @@ Each quarter in 2022 experienced a downward trend:
 </details>
 
 <details>
-<summary><b>📉 3. Long-Term AOV Decline May Indicate Price Sensitivity</b></summary>
+<summary><b> 3. Long-Term AOV Decline May Indicate Price Sensitivity</b></summary>
 
 - From a peak of ~$322 in 2020, AOV steadily dropped to ~$234 in 2022 which is **27% drop**
 - Over the span of four years, the change in AOV growth has been relatively constant, indicating minimal changes in product pricing
@@ -211,7 +206,7 @@ Key findings on order frequency:
 
 ---
 
-## 📦 Product Performance
+## Product Performance
 
 <div align="center">
   <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
@@ -238,10 +233,10 @@ Key findings on order frequency:
 
 ### Seasonal Heat Map Findings
 
-- ✅ **Consistent Q4 spikes**, likely due to Black Friday, Cyber Monday, and the holiday shopping season
-- ✅ **Biggest Q4 Performer**: The 27-inch 4K Gaming Monitor and Apple AirPods saw the biggest spikes
-- 📉 Sales tend to dip in **January and February** after the holiday season in Q1
-- 📊 MacBook Air, ThinkPad, and the 27-inch 4K Gaming Monitor maintain **consistent demand**, as sales through Q2 and Q3 remain relatively stable but lower than in Q4
+- **Consistent Q4 spikes**, likely due to Black Friday, Cyber Monday, and the holiday shopping season
+- **Biggest Q4 Performer**: The 27-inch 4K Gaming Monitor and Apple AirPods saw the biggest spikes
+- Sales tend to dip in **January and February** after the holiday season in Q1
+- MacBook Air, ThinkPad, and the 27-inch 4K Gaming Monitor maintain **consistent demand**, as sales through Q2 and Q3 remain relatively stable but lower than in Q4
 
 <table align="center">
   <tr align="center">
@@ -258,7 +253,7 @@ Key findings on order frequency:
 
 ---
 
-## 👥 Loyalty Program Learnings
+## Loyalty Program Learnings
 
 <table align="center">
   <tr align="center">
@@ -275,7 +270,7 @@ Key findings on order frequency:
 
 ### Key Findings
 
-> 🌟 **Loyalty Program Success**: Loyalty members have sustained AOV growth beyond the pandemic boom, demonstrating the program's effectiveness as a retention tool.
+> **Loyalty Program Success**: Loyalty members have sustained AOV growth beyond the pandemic boom, demonstrating the program's effectiveness as a retention tool.
 
 **Loyalty Members (Success Story):**
 - ✅ Sales revenue increased from **$0.4M in 2019** to **$2.7M in 2022**
@@ -290,12 +285,12 @@ Key findings on order frequency:
 - ❌ Non-loyalty members' AOV declined by **18.7% from 2021 to 2022**
 
 **Behavioral Insights:**
-- 💰 Loyalty members outspend non-loyalty members on **returning orders by nearly $60**
-- 🆕 Non-loyalty members have historically spent more on their **first orders**
+- Loyalty members outspend non-loyalty members on **returning orders by nearly $60**
+- Non-loyalty members have historically spent more on their **first orders**
 
 ---
 
-## 🔄 Refund Rates
+## Refund Rates
 
 <table align="center">
   <tr>
@@ -329,7 +324,7 @@ Key findings on order frequency:
 
 ---
 
-## 🌍 Regional Results
+## Regional Results
 
 <div align="center">
   <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1743795515/Regional_Barbel_Graph_CamilingJS" />
@@ -338,27 +333,27 @@ Key findings on order frequency:
 ### Regional Performance Overview
 
 **North America (Dominant Region):**
-- 🏆 Contributes the **most to sales revenue** for each product
-- 📊 An average of **52% of total sales** per product
-- 💰 **$2.7 million in 2022**
-- 🎯 **Samsung Webcam** sees highest sales rate in North America (58% of total sales occur in this region)
+- Contributes the **most to sales revenue** for each product
+- An average of **52% of total sales** per product
+- **$2.7 million in 2022**
+- **Samsung Webcam** sees highest sales rate in North America (58% of total sales occur in this region)
 
 **Latin America (Underperforming Region):**
-- ⚠️ Company's sales have **significantly underperformed** in this region
-- 📉 Each product accounts for only an average of **6% of total sales**
-- 💰 **$256 thousand in 2022**
+- Company's sales have **significantly underperformed** in this region
+- Each product accounts for only an average of **6% of total sales**
+- **$256 thousand in 2022**
 
 **Product Highlights Across Regions:**
-- 🥇 **27-Inch 4K Gaming Monitor** is the most popular across products (accounts for **35% of total product sales**)
-- 🥉 **Bose SoundSport Headphones** are the least favored (sales are close to **0% across products**)
+- **27-Inch 4K Gaming Monitor** is the most popular across products (accounts for **35% of total product sales**)
+- **Bose SoundSport Headphones** are the least favored (sales are close to **0% across products**)
 
 ---
 
-## 💡 Recommendations
+## 5. Recommendations
 
 Based on the uncovered insights, here are actionable items that the company can take away from the analysis.
 
-### 📈 Sales Recommendations
+### Sales Recommendations
 
 **Address Seasonal Fluctuations:**
 - Remedy sales lows due to seasonal fluctuations in **January and February** by increasing marketing campaigns during these low-sales periods
@@ -371,22 +366,22 @@ Based on the uncovered insights, here are actionable items that the company can 
   - Average year-over-year sales growth post-pandemic: **-28%**
   - Average year-over-year order count growth post-pandemic: **-17%**
 
-### 📦 Product Recommendations
+### Product Recommendations
 
 **Inventory Optimization:**
-- ✅ **Optimize inventory** for high-performing products year-round
+- **Optimize inventory** for high-performing products year-round
   - 27-Inch 4K Gaming Monitor: **$10 million** over four years
   - Apple AirPods: **$8 million** over four years
 
-- ❌ **Deprioritize inventory** for low-performing products
+- **Deprioritize inventory** for low-performing products
   - Bose SoundSport Headphones and Apple iPhone constitute for nearly **0%** of total purchase orders
 
 **Strategic Product Investigation:**
-- 🔍 **Investigate sales** for MacBook Air laptops
+- **Investigate sales** for MacBook Air laptops
   - Ranks third in sales revenue (**22%**)
   - Falls in bottom half for number of purchase orders (**3.67%**)
 
-### 👥 Loyalty Program Recommendations
+### Loyalty Program Recommendations
 
 **Program Expansion:**
 - Continue a **strong push for the loyalty program** to boost and stabilize sales, as loyalty members are more likely to return as customers and purchase high-priced items
@@ -397,14 +392,14 @@ Based on the uncovered insights, here are actionable items that the company can 
 - Offer incentives for loyalty members to target purchases of MacBook Air laptops
   - Loyalty members align with the ideal user persona for MacBook Air laptops, as they purchase high-priced products, are more likely to return as customers, and rarely make returns
 
-### 🔄 Refund Rate Recommendations
+### Refund Rate Recommendations
 
 **Quality Control Enhancement:**
 - Streamline **product quality control** for high AOV products as they are the most frequently returned products
   - MacBook Air Laptops: Average return rate of **14%** (2019-2021)
   - ThinkPad Laptops: Average return rate of **14%** (2019-2021)
 
-### 🌍 Regional Recommendations
+### Regional Recommendations
 
 **Market Share Maximization:**
 - **Maximize market share** in North America, as this region dominates sales across all products
@@ -416,7 +411,7 @@ Based on the uncovered insights, here are actionable items that the company can 
 
 ---
 
-## 🎯 Conclusions and Strategic Recommendations
+## 6. Conclusions and Strategic Recommendations
 
 This comprehensive analysis of the company's performance from 2019 to 2022 reveals a business that successfully capitalized on the e-commerce surge of the COVID-19 pandemic but is now facing a critical post-pandemic correction. The significant revenue decline in late 2022 was driven primarily by a **38% drop in order frequency** rather than a collapse in order value. This indicates that the primary challenge is **customer retention and demand generation** in an increasingly competitive market.
 
@@ -424,7 +419,7 @@ This comprehensive analysis of the company's performance from 2019 to 2022 revea
 
 To navigate this transition and return to a growth trajectory in the future, the company must focus on three strategic pillars:
 
-#### 1. 💎 Deepening Customer Loyalty
+#### 1. Deepening Customer Loyalty
 
 The loyalty program is a proven success, with members contributing **higher AOV** and showing **greater resilience to market fluctuations**. Expanding this program is the most viable path to stabilizing revenue.
 
@@ -433,7 +428,7 @@ The loyalty program is a proven success, with members contributing **higher AOV*
 - Spending premium: **+$31 per order** vs. non-members
 - Retention resilience: Sustained through post-pandemic correction
 
-#### 2. ⚙️ Operational Excellence in High-Value Categories
+#### 2. Operational Excellence in High-Value Categories
 
 While Laptops drive significant revenue, their high refund rates (**14%**) represent a major leak in profitability. Addressing quality control or setting better customer expectations for these items is essential.
 
@@ -442,7 +437,7 @@ While Laptops drive significant revenue, their high refund rates (**14%**) repre
 - Improve product descriptions and set clear expectations
 - Consider extended warranty or support programs
 
-#### 3. 🌎 Geographic Optimization
+#### 3. Geographic Optimization
 
 North America remains the bedrock of the business (**52% of sales**). While Latin America offers growth potential, immediate efforts should focus on maximizing market share in the high-performing North American region during seasonal lows (Q1).
 
@@ -462,13 +457,3 @@ By transitioning from a strategy of "riding the pandemic wave" to a **data-drive
 - ✅ Customer re-engagement initiatives
 
 The data clearly shows that the foundation for recovery exists—the company must now execute strategically to capitalize on these insights.
-
----
-
-## 📬 Contact
-
-Feel free to reach out if you have questions about this project or would like to discuss business analytics and performance optimization!
-
----
-
-*Transforming data into actionable business intelligence* ✨
