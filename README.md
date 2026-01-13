@@ -6,17 +6,17 @@
 
 ## Table of Contents
 
-- [Executive Summary](#-executive-summary)
-- [Client Background](#-client-background)
-- [Dataset Structure](#-dataset-structure--erd)
-- [Key Insights](#-insights-deep-dive)
-  - [Sales Trends](#-sales-trends)
-  - [Product Performance](#-product-performance)
-  - [Loyalty Program Analysis](#-loyalty-program-learnings)
-  - [Refund Rate Analysis](#-refund-rates)
-  - [Regional Performance](#-regional-results)
-- [Strategic Recommendations](#-recommendations)
-- [Conclusions](#-conclusions-and-strategic-recommendations)
+- [Executive Summary](#1-executive-summary)
+- [Client Background](#2-client-background)
+- [Dataset Structure & ERD](#3-dataset-structure--erd)
+- [Insights Deep-Dive](#4-insights-deep-dive)
+  - [Sales Trends](#sales-trends)
+  - [Product Performance](#product-performance)
+  - [Loyalty Program Learnings](#loyalty-program-learnings)
+  - [Refund Rates](#refund-rates)
+  - [Regional Results](#regional-results)
+- [Strategic Recommendations](#5-strategic-recommendations)
+- [Conclusions](#6-conclusions)
 
 ---
 
@@ -317,10 +317,10 @@ Key findings on order frequency:
 
 | Product | Average Refund Rate (2019-2021) | Significance |
 |---------|-------------------------------|--------------|
-| **ThinkPad Laptop** | 14% | ⚠️ Highest refund rate, high-value product |
-| **MacBook Air Laptop** | 14% | ⚠️ Highest refund rate, high-value product |
-| **Samsung Charging Cable** | 2% | ✅ Low refund rate |
-| **Bose SoundSport** | 0% | ✅ Zero refunds (low volume product) |
+| **ThinkPad Laptop** | 14% | Highest refund rate, high-value product |
+| **MacBook Air Laptop** | 14% | Highest refund rate, high-value product |
+| **Samsung Charging Cable** | 2% | Low refund rate |
+| **Bose SoundSport** | 0% | Zero refunds (low volume product) |
 
 ---
 
