@@ -38,7 +38,7 @@ This project is a **Business Case Simulation** focused on the performance analys
 ### Sales Revenue Analysis (2019–2022)
 
 <div align="center">
-  <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739861326/TechSphere_Sales_Rev_CamilingJS" />
+  <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/sales_revenue_analysis.png" />
 </div>
 
 #### 1. Revenue Growth and Peak Performance
@@ -100,7 +100,7 @@ The key insights and recommendations focus on the following areas:
 The database structure consists of four tables with a total row count of **108,127 records**:
 
 <div align="center">
-  <img width="680" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/TechSphere_ERD_CamilingJS" alt="Entity Relationship Diagram">
+  <img width="680" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/structure_and_erd.png">
 </div>
 
 ### Database Schema
@@ -121,13 +121,13 @@ The database structure consists of four tables with a total row count of **108,1
 <table align="center">
   <tr>
     <td width="333">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739895398/Sales_Line_Graph_wnql3v" alt="Sales Revenue Trend">
+      <img width="300" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/sales_revenue.png">
     </td>
     <td width="333">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739896683/AOV_Line_Graph_CamilingJS" alt="AOV Trend">
+      <img width="300" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/aov.png">
     </td>
     <td width="333">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739894907/Num_of_Orders_mfx5ap" alt="Order Count Trend">
+      <img width="300" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/num_of_orders.png">
     </td>
   </tr>
 </table>
@@ -200,7 +200,7 @@ Key findings on order frequency:
 ### Sales Growth vs. AOV Growth
 
 <div align="center">
-  <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/Sales_and_AOV_Growth_MOY_CamilingJS" />
+  <img width="900" alt="Sales Growth vs. AOV Growth" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/sales_vs_aov_growth.png" />
   <p><strong>Sales Growth follows seasonal fluctuations, while AOV remains relatively constant, except for the Sales Growth in October 2022</strong></p>
 </div>
 
@@ -210,7 +210,7 @@ Key findings on order frequency:
 
 <div align="center">
   <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
-  <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740121052/Product_Sales_Line_Graph_CamilingJS" />
+  <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/product_performance.png" />
 </div>
 
 ### The Best and Worst Performers
@@ -242,11 +242,11 @@ Key findings on order frequency:
   <tr align="center">
     <td width="500">
       <h4>AOV Over Time (2019-2022)</h4>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS" alt="AOV by Product">
+      <img width="450" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/aov_over_time.png" alt="AOV by Product">
     </td>
     <td width="500">
       <h4>Product Sales Heat Map by Quarter</h4>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740646006/Sales_Heatmap_CamilingJS" alt="Sales Heatmap">
+      <img width="450" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/ps_heat_map.png" alt="Sales Heatmap">
     </td>
   </tr>
 </table>
@@ -259,11 +259,11 @@ Key findings on order frequency:
   <tr align="center">
     <td width="500">
       <h4>Average Order Value by Loyalty Status</h4>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740552359/AOV_by_Loyalty_Status_Camiling" alt="AOV by Loyalty">
+      <img width="450" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/aov_by_loyalty.png" alt="AOV by Loyalty">
     </td>
     <td width="500">
       <h4>Number of Orders by Loyalty Status</h4>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1742758110/OrderCount_by_Loyalty_Status_Camiling.png" alt="Orders by Loyalty">
+      <img width="450" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/num_of_orders_by_loyalty.png" alt="Orders by Loyalty">
     </td>
   </tr>
 </table>
@@ -297,7 +297,7 @@ Key findings on order frequency:
     <td width="500" valign="top">
       <div align="center">
         <h3>Refund Rate per Product Type</h3>
-        <img alt="Refund heat map of products" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740637891/Refund_Rates_Per_Product_Heatmap_CamilingJS" />
+        <img alt="Refund heat map of products" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/rr_per_product.png" />
       </div>
     </td>
     <td width="500" valign="top">
@@ -327,7 +327,7 @@ Key findings on order frequency:
 ## Regional Results
 
 <div align="center">
-  <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1743795515/Regional_Barbel_Graph_CamilingJS" />
+  <img width="1000" alt="Sales by region" src="https://github.com/EndreGuljas/E-commerce-Performance-Report/blob/main/graphs_and_diagrams/regional_results.png" />
 </div>
 
 ### Regional Performance Overview
