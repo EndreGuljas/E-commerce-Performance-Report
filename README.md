@@ -24,7 +24,7 @@
 
 ### Project Overview
 
-This project is a **Business Case Simulation** focused on the performance analysis of a global e-commerce company. While the business scenario is fictional, the analysis is conducted using a **real-world dataset**. The company experienced significant growth during the COVID-19 pandemic but faced substantial challenges in 2022, requiring a comprehensive performance review to identify strategic opportunities.
+This project is a **Business Case Simulation** focused on the performance analysis of a global e-commerce company. The company experienced significant growth during the COVID-19 pandemic but faced substantial challenges in 2022, requiring a comprehensive performance review to identify strategic opportunities.
 
 ### Key Findings at a Glance
 
@@ -456,4 +456,4 @@ By transitioning from a strategy of "riding the pandemic wave" to a **data-drive
 - ✅ Seasonal demand management
 - ✅ Customer re-engagement initiatives
 
-The data clearly shows that the foundation for recovery exists—the company must now execute strategically to capitalize on these insights.
+The data clearly shows that the foundation for recovery exists, and the company must now execute strategically to capitalize on these insights.
