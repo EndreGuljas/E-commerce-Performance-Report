@@ -24,7 +24,7 @@
 
 ### Project Overview
 
-This project is a **Business Case Simulation** focused on the performance analysis of a global e-commerce company. The company experienced significant growth during the COVID-19 pandemic but faced substantial challenges in 2022, requiring a comprehensive performance review to identify strategic opportunities.
+This project is a **Business Case Simulation** focused on the performance analysis of a global e-commerce company. The company experienced significant growth during the COVID-19 pandemic but faced substantial challenges in 2022, requiring a comprehensive performance review to identify strategic opportunities. The Power BI dashboard for the performance report can be viewed [here](./E-commerce_Performance_Report_Dashboard...).
 
 ### Key Findings at a Glance
 
